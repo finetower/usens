@@ -1,7 +1,7 @@
 # Site
 name: "USENS"
 title: "USENS"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "선물 추천 사이트"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /usens
@@ -13,18 +13,18 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  usens:
+    name: usens
+    display_name: usens
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: finetower@naver.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    web: https://www.usens.co.kr
+    twitter:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
